@@ -1,22 +1,28 @@
-# Hi, I'm Amarjit 👋
+# Hi, I'm Amarjit Singh 👋
 
-### Cloud Infrastructure Engineer | Kubernetes | DevOps | AI/ML Infrastructure
+### Senior DevOps / Cloud Infrastructure Engineer | Kubernetes | OpenShift | AI/ML Infrastructure
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjit25)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amarjit25)
+[![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com)
 
 ---
 
-🚀 **About Me**
+## 🚀 About Me
 
-I'm a Cloud Infrastructure Engineer with 5+ years of experience designing and managing production-grade Kubernetes and OpenShift clusters, CI/CD pipelines, and AI/ML infrastructure. Passionate about cloud-native technologies, infrastructure automation, and building scalable systems.
+I am a Senior DevOps and Cloud Infrastructure Engineer with **7+ years of experience** in designing, deploying, and managing enterprise-grade container platforms, CI/CD pipelines, and cloud-native infrastructure. I specialize in **Kubernetes and Red Hat OpenShift** cluster administration, infrastructure automation, and building scalable AI/ML infrastructure pipelines.
 
-- 🔭 Currently working on: **Kubernetes (CKAD prep), RAG pipelines & AI model infrastructure**
-- 🌱 Learning: **Terraform, Advanced K8s networking, NVIDIA AI Infrastructure**
-- 💡 Interested in: **Cloud-native DevOps, AI/ML infra, container orchestration**
+Currently, I work at **Capgemini** as part of a cloud transformation program, managing on-premise OpenShift clusters and driving containerization of enterprise workloads including Oracle databases. I am passionate about cloud-native technologies, GitOps practices, and the intersection of DevOps with AI/ML systems.
+
+- 🔭 Currently working on: **RAG pipelines, AI model infrastructure (Ollama), Vector DB optimization**
+- 🌱 Upskilling in: **Terraform, NVIDIA AI Infrastructure & Operations, Advanced K8s networking**
+- 🏆 Certified: **CKAD — Certified Kubernetes Application Developer (CNCF)**
 - 📍 Based in: **Bengaluru, India**
-- 💬 Ask me about: **Kubernetes, OpenShift, Docker, GitLab CI/CD, RAG systems**
+- 💬 Ask me about: **Kubernetes, OpenShift, Docker, GitLab CI/CD, Ansible, RAG systems, Oracle DB on K8s**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Container & Orchestration**
 
@@ -24,13 +30,28 @@ I'm a Cloud Infrastructure Engineer with 5+ years of experience designing and ma
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 
-**CI/CD & Automation**
+**CI/CD & GitOps**
 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
 
 **Languages**
 
@@ -44,34 +65,67 @@ I'm a Cloud Infrastructure Engineer with 5+ years of experience designing and ma
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 
 **Databases**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+## 🏆 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| **Certified Kubernetes Application Developer (CKAD)** | CNCF / Linux Foundation | ✅ Certified |
+| **NVIDIA AI Infrastructure and Operations** | NVIDIA | 📚 In Progress |
+
+---
+
+## 💼 Work Experience
+
+### Senior DevOps Engineer — Capgemini *(Current)*
+- Administer and maintain **on-premise Red Hat OpenShift** clusters for enterprise clients
+- Lead the **containerization of Oracle databases** on Kubernetes with persistent storage and HA configurations
+- Build and manage **GitLab CI/CD pipelines** for automated builds, testing, and deployments
+- Implement **Ansible playbooks** for infrastructure automation and configuration management
+- Design **network policies, Ingress controllers**, and RBAC for multi-tenant cluster environments
+- Develop **RAG (Retrieval-Augmented Generation) pipelines** integrating Ollama with vector databases
+- Manage **Kubernetes cluster upgrades**, node scaling, and workload scheduling optimizations
+
+### DevOps / Infrastructure Engineer — Previous Role
+- Designed and deployed containerized microservices using **Docker and Kubernetes**
+- Built CI/CD workflows with **GitLab** covering code quality gates, Docker image builds, and Helm-based K8s deployments
+- Administered **Linux servers**, performed performance tuning and capacity planning
+- Worked with **Java and Python** application teams on deployment automation and troubleshooting
+
+---
+
+## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [k8s-manifests](https://github.com/amarjit25/k8s-manifests) | Production-ready Kubernetes manifests — Deployments, Services, Ingress, HPA, NetworkPolicy | Kubernetes, YAML, Helm |
-| [babycare](https://github.com/amarjit25/babycare) | Full-stack app for tracking newborn baby health metrics and schedules | TypeScript, Node.js |
+| [k8s-manifests](https://github.com/amarjit25/k8s-manifests) | Production-ready Kubernetes manifests — Deployments, Services, Ingress, HPA, NetworkPolicy, RBAC | Kubernetes, YAML, Helm |
+| [babycare](https://github.com/amarjit25/babycare) | Full-stack app for tracking newborn baby health metrics, feeding schedules and growth milestones | TypeScript, Node.js |
+| [ansible](https://github.com/amarjit25/ansible) | Ansible automation for infrastructure provisioning and configuration management | Ansible, Python |
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Amarjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarjit25&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
-### 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjit25)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amarjit25)
+![Amarjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarjit25&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjit25&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-*"Infrastructure should be boring in production and exciting to build."*
+## 🤝 Let's Connect
+
+I'm open to **DevOps / Cloud Infrastructure / Platform Engineering** opportunities, especially roles involving Kubernetes, cloud-native platforms, and AI/ML infrastructure. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjit25)
+
+---
+
+*"Automate everything. Version control everything. Monitor everything."*
