@@ -1,6 +1,6 @@
 # Hi, I'm Amarjit Pattanaik 👋
 
-### Cloud Solution Architect | Kubernetes | Red Hat OpenShift | DevOps | Cloud-Native Platform Engineering
+### Devops and Platform Architect | Kubernetes | Red Hat OpenShift | DevOps | Cloud-Native Platform Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjit-pattnaik-6b944b90)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amarjit25)
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a **Cloud Solution Architect** with **10 years of experience** designing and deploying enterprise-scale IT solutions across on-premises, hybrid, and cloud environments. I specialize in **Kubernetes, Red Hat OpenShift, Terraform, GitLab CI, and ArgoCD** — delivering secure, scalable, and highly available production platforms.
+I am a **Devops and Platform Architect** with **10 years of experience** designing and deploying enterprise-scale IT solutions across on-premises, hybrid, and cloud environments. I specialize in **Kubernetes, Red Hat OpenShift, Terraform, GitLab CI, and ArgoCD** — delivering secure, scalable, and highly available production platforms.
 
 Currently at **Infineon Technologies AG, Munich**, I lead cloud-native platform engineering, CI/CD strategy, observability architecture, and identity integration across global enterprise environments. I align platform roadmaps with business outcomes and have delivered measurable impact including **60% operational cost reduction**, **40% deployment efficiency gains**, and **30% performance improvements**.
 
